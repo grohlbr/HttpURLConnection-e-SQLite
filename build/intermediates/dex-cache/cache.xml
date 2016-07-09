@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_b1b1154c708d35022f11ecb4b54c128d69579a7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ed38d602f21cae1071b6e420e4fc0a9030f80a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_42434ab278cdb6374848a7b5277ad2a89d0b7953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_08cb35ec7ebd84b9a0925f754df081002f231bff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_1eac4734c47ba97de4bf55fecd4f43b021f01a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_00b2553005b2124095b4d89b9ccbd46935a70b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e57c8e866fc63137f82624822d4f9f0422459ce1">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f3fddeb3cc5e246b5732c8ad66f19b62f9c5591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="aac0d22a26c3a3dff361cd9b02385878cd3f8672">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dd80cbd3e3625a0c23e9d2289266b69ced202ae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Downloads/Android Studio.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="29e762ef46d0cb2b648eb3d25eeb2b29853579fe">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_809b9ebc5dccb359d0d46e52dd0f5370c50e06d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/ParseJsonSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_0c0ff50fa77f34c70d1c44a4edfe9f76404b2a47/classes.dex" />
+    </item>
+
+</items>
